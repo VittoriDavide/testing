@@ -1,6 +1,5 @@
 # testing
 
-meme
 bye 2
 hello hear
 hello now
